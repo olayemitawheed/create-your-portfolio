@@ -1,0 +1,124 @@
+* {
+    font-family: 'Segoe UI', sans-serif;
+}
+
+body {
+    background-color: #dadbe0;
+}
+
+main {
+    margin: 20px 275px;
+    width: 793px;
+    border: 1px solid grey;
+    background-color: white;
+}
+
+.cv {
+    margin: 75px 65px;
+}
+
+.contact {
+    text-align: center;
+    line-height: 15px;
+}
+
+.biodata p {
+    line-height: 0px;
+    margin-bottom: 25px;
+}
+
+.biodata span {
+    display: block;
+}
+
+.biodata span[id="b1"], span[id="b2"], span[id="b3"], span[id="b4"] {
+    font-style: italic;
+}
+
+.biodata span[id="b5"], span[id="b6"], span[id="b7"], span[id="b8"] {
+    text-indent: 150px;
+}
+
+.education p {
+    line-height: 0px;
+    margin-bottom: 25px;
+}
+
+.education p[id="e1"], p[id="e3"], p[id="e5"] {
+    background-color: #c0c0c0;
+}
+
+.education p[id="e2"], p[id="e4"], p[id="e6"] {
+    font-style: italic;
+}
+
+.education span {
+    display: block;
+}
+
+.education span[id="e7"], span[id="e8"], span[id="e9"], span[id="e10"], span[id="e11"], span[id="e12"] {
+    text-indent: 450px;
+}
+
+.certifications p {
+    line-height: 0px;
+    margin-bottom: 25px;
+}
+
+.certifications p[id="c1"], p[id="c3"], p[id="c5"], p[id="c7"], p[id="c9"] {
+    background-color: #c0c0c0;
+}
+
+.certifications p[id="c2"], p[id="c4"], p[id="c6"], p[id="c8"], p[id="c10"] {
+    font-style: italic;
+}
+
+.certifications span {
+    display: block;
+}
+
+.certifications span[id="c11"], span[id="c12"], span[id="c13"], span[id="c14"], span[id="c15"], span[id="c16"], span[id="c17"], span[id="c18"], span[id="c19"], span[id="c20"] {
+    text-indent: 450px;
+}
+
+.experience p {
+    line-height: 0px;
+    margin-bottom: 30px;
+}
+
+.experience p[id="x1"], p[id="x5"], p[id="x7"], p[id="x9"], p[id="x11"], p[id="x13"] {
+    background-color: #c0c0c0;
+}
+
+.experience p[id="x2"], p[id="x3"], p[id="x4"], p[id="x6"], p[id="x8"], p[id="x10"], p[id="x12"], p[id="x14"] {
+    font-style: italic;
+}
+
+.experience span {
+    display: block;
+}
+
+.experience span[id="x17"], span[id="x18"] {
+    text-indent: 400px;
+}
+
+.experience span[id="x15"], span[id="x16"], span[id="x19"], span[id="x20"], span[id="x21"], span[id="x22"], span[id="x23"], span[id="x24"], span[id="x25"], span[id="x26"], span[id="x27"], span[id="x28"] {
+    text-indent: 450px;
+}
+
+.skills p, .skills span {
+    display: block;
+    line-height: 2px;
+}
+
+.skills p[id="s2"], p[id="s3"] {
+    text-indent: 150px;
+}
+
+.skills span[id="s1"], span[id="s2"], span[id="s3"] {
+    font-style: italic;
+}
+
+.skills span[id="s4"], span[id="s5"], span[id="s6"] {
+    text-indent: 150px;
+}
